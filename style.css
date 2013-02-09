@@ -176,7 +176,7 @@ body {
 
 /* The #gameComplete element holds the screen that shows when you finish the game */
 #gameComplete {
-  background: url(./images/end.png) center 0 no-repeat;
+  background: url(http://images2.layoutsparks.com/1/157065/lime-dragon-cross-green.jpg) center 0 no-repeat;
   text-align: center;
   position: absolute;
   margin: 10px;
