@@ -98,7 +98,7 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://www.crystalxp.net/galerie/img/img-wallpapers-neon-tribal-genesis91-20906.jpg}
+.ie {background: url(http://www.crystalxp.net/galerie/img/img-wallpapers-neon-tribal-genesis91-20906.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://fc08.deviantart.net/fs71/f/2012/329/4/9/neon_babs_seed_by_zantyarz-d5m4gw4.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
