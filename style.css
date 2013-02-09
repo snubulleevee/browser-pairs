@@ -12,7 +12,7 @@ a {
 body {
   text-align: center;
   background-image: url(http://www.conciergepreferred.com/media/k2/items/cache/b6120c313ac48a77675d5f5655b43f41_XL.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-color: #FF8000;
   color: #DA4930;
   font-family: "Days One", sans-serif;
